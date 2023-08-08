@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CST2335_mobile/AndroidStudioProjects/AndroidFinalProject/app/src/main/res/layout/activity_cocktail_search.xml" value="0.278125" />
+        <entry key="..\:/CST2335_mobile/AndroidStudioProjects/AndroidFinalProject/app/src/main/res/layout/activity_empty.xml" value="0.278125" />
+        <entry key="..\:/CST2335_mobile/AndroidStudioProjects/AndroidFinalProject/app/src/main/res/layout/activity_header_layout.xml" value="0.278125" />
+        <entry key="..\:/CST2335_mobile/AndroidStudioProjects/AndroidFinalProject/app/src/main/res/layout/activity_main.xml" value="0.278125" />
+        <entry key="..\:/CST2335_mobile/AndroidStudioProjects/AndroidFinalProject/app/src/main/res/layout/cocktail_name.xml" value="0.278125" />
+        <entry key="..\:/CST2335_mobile/AndroidStudioProjects/AndroidFinalProject/app/src/main/res/layout/fragment_details.xml" value="0.278125" />
+        <entry key="..\:/CST2335_mobile/AndroidStudioProjects/AndroidFinalProject/app/src/main/res/menu/cocktail_menu.xml" value="0.28125" />
+        <entry key="..\:/CST2335_mobile/AndroidStudioProjects/AndroidFinalProject/app/src/main/res/menu/main_activity_menu.xml" value="0.28125" />
+        <entry key="..\:/Users/Chloe/AndroidFinalProject/app/src/main/res/drawable/cocktail.xml" value="0.5465" />
+        <entry key="..\:/Users/Chloe/AndroidFinalProject/app/src/main/res/drawable/cocktail_icon.xml" value="0.409" />
+        <entry key="..\:/Users/Chloe/AndroidFinalProject/app/src/main/res/layout-sw720dp/activity_cocktail_display.xml" value="0.18271857923497267" />
+        <entry key="..\:/Users/Chloe/AndroidFinalProject/app/src/main/res/layout-sw720dp/activity_cocktail_result_list.xml" value="0.1" />
+        <entry key="..\:/Users/Chloe/AndroidFinalProject/app/src/main/res/layout/activity_cocktail_display.xml" value="0.264" />
+        <entry key="..\:/Users/Chloe/AndroidFinalProject/app/src/main/res/layout/activity_cocktail_result_list.xml" value="0.4" />
+        <entry key="..\:/Users/Chloe/AndroidFinalProject/app/src/main/res/layout/activity_cocktail_search.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/Chloe/AndroidFinalProject/app/src/main/res/layout/activity_empty.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Chloe/AndroidFinalProject/app/src/main/res/layout/activity_header_layout.xml" value="0.31302083333333336" />
+        <entry key="..\:/Users/Chloe/AndroidFinalProject/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Chloe/AndroidFinalProject/app/src/main/res/layout/activity_main2.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/Chloe/AndroidFinalProject/app/src/main/res/layout/cocktail_name.xml" value="0.152" />
+        <entry key="..\:/Users/Chloe/AndroidFinalProject/app/src/main/res/layout/fragment_details.xml" value="0.24230072463768115" />
+        <entry key="..\:/Users/Chloe/AndroidFinalProject/app/src/main/res/menu/cocktail_menu.xml" value="0.2" />
+        <entry key="..\:/Users/Chloe/AndroidFinalProject/app/src/main/res/menu/main_activity_menu.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Documents/Algonquin Computer Programing/Summer 2022/Classes/CST2335 - Mobile Graphical Interface Programming/Final-Project-Javadoc" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
